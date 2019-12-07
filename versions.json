@@ -2,13 +2,13 @@
   "master": {
     "path": "versions/master",
     "name": "master",
-    "sha": "a0b4c03059c8f37b785a971cc536533ff805bf51",
+    "sha": "1a886e91f24e2d8bcbd210738ac958fcd84704ce",
     "tag": null
   },
   "-latest": {
     "path": "",
     "name": "Latest",
-    "sha": "a0b4c03059c8f37b785a971cc536533ff805bf51",
+    "sha": "1a886e91f24e2d8bcbd210738ac958fcd84704ce",
     "tag": null
   },
   "octane-docs": {
