@@ -16,5 +16,11 @@
     "name": "octane-docs",
     "sha": "dff8dfdd3f207694bfebd189e6b7760dd79c6802",
     "tag": null
+  },
+  "docs-custom-domain": {
+    "path": "versions/docs-custom-domain",
+    "name": "docs-custom-domain",
+    "sha": "c635b92e72b630e086e77adf37674cb4b6608a18",
+    "tag": null
   }
 }
